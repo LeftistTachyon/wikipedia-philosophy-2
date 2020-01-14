@@ -21,7 +21,7 @@ public class Main {
     /**
      * # of pages to visit
      */
-    private static final int PAGES_TO_VISIT = 250;
+    private static final int PAGES_TO_VISIT = 100;
 
     /**
      * # of cores on this computer
@@ -107,8 +107,10 @@ public class Main {
                         break;
                     }
                     cntr--;
-                    System.out.printf("%-100s", title_ + ": " + hops + " hops");
-                    System.out.printf("%.3f ms%n", total);
+                    if (log.isInfoEnabled()) {
+                        String line = String.format("%-100s%.3f ms", title_ + ": " + hops + " hops", total);
+                        log.info(line);
+                    }
                     lastStart = System.nanoTime();
                 }
                 if (++finished == coresToUse) {
@@ -116,34 +118,6 @@ public class Main {
                 }
             }).start();
         }
-
-        /*final int pagesToVisit = 10;
-        double avgTime = 0;
-        int max = -1, toPhil = 0;
-        String title = null;
-        for (int i = 0; i < pagesToVisit; i++) {
-            double start = System.nanoTime();
-            Document tempD = Jsoup.connect(
-                    "https://en.wikipedia.org/wiki/Special:Random").get();
-            int hops = hopsToPhilosophy(tempD);
-            if (hops >= 0) {
-                toPhil++;
-            }
-            String temp = tempD.getElementById("firstHeading").text();
-            if (hops > max) {
-                max = hops;
-                title = temp;
-            }
-            double total = System.nanoTime() - start;
-            System.out.printf("%-100s", temp
-                    + ": " + hops + " hops");
-            System.out.printf("%.3f ms%n", total /= 1000000);
-            avgTime += total;
-        }
-        System.out.printf("%nMax hops: %d hops - %s%n", max, title);
-        System.out.printf("Avg time: %.3f ms%n", avgTime / pagesToVisit);
-        System.out.printf("%% to philosophy: %.2f%%%n",
-                toPhil * 100.0 / pagesToVisit);*/
     }
 
     /**
@@ -173,11 +147,11 @@ public class Main {
             current.select("table").remove();
             current.select("sup").remove();
 
-            Elements bodyStuff = current.select("div#bodyContent");
-            Elements parags = bodyStuff.select("p");
+            Element bodyStuff = current.getElementById("bodyContent");
+            Elements parags = bodyStuff.getElementsByTag("p");
             Element toGo = null;
             if (parags.select("a[href]").isEmpty()) {
-                Elements listElements = bodyStuff.select("li");
+                Elements listElements = bodyStuff.getElementsByTag("li");
                 outer:
                 for (Element listElement : listElements) {
                     String temp = listElement.outerHtml();
@@ -189,7 +163,7 @@ public class Main {
                         continue;
                     }
                     for (Element link : links) {
-                        if (link.parent().is("span#coordinates")) {
+                        if (link.parent().id().equals("coordinates")) {
                             continue outer;
                         }
                         String outer = link.outerHtml();
@@ -216,7 +190,7 @@ public class Main {
                         continue;
                     }
                     for (Element link : links) {
-                        if (link.parent().is("span#coordinates")) {
+                        if (link.parent().id().equals("coordinates")) {
                             continue outer;
                         }
                         String outer = link.outerHtml();
@@ -244,7 +218,7 @@ public class Main {
                             continue;
                         }
                         for (Element link : links) {
-                            if (link.parent().is("span#coordinates")) {
+                            if (link.parent().id().equals("coordinates")) {
                                 continue outer;
                             }
                             String outer = link.outerHtml();
@@ -366,9 +340,13 @@ public class Main {
      * Prints out the statistics.
      */
     private static void printStatistics() {
-        System.out.printf("%nMax hops: %d hops - %s%n", max, title);
-        System.out.printf("Avg time: %.3f ms%n", totalTime / PAGES_TO_VISIT);
-        System.out.printf("%% to philosophy: %.2f%%%n",
-                ((double) toPhil * 100) / PAGES_TO_VISIT);
+        if (log.isInfoEnabled()) {
+            log.info("");
+            log.info("Max hops: {} hops - {}", max, title);
+            String avgTime = String.format("%.3f", totalTime / PAGES_TO_VISIT);
+            log.info("Avg time: {} ms", avgTime);
+            String percent = String.format("%.2f", ((double) toPhil * 100) / PAGES_TO_VISIT);
+            log.info("% to philosophy: {}%", percent);
+        }
     }
 }

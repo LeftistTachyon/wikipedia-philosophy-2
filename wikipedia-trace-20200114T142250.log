@@ -1,0 +1,11 @@
+2020-01-14 14:22:50,314 [main] [INFO ] com.github.leftisttachyon.Main - Detected 4 cores; creating 1 thread(s).
+2020-01-14 14:22:52,339 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Bangladesh National Film Award for Best Lyrics: 19 hops                                             2010.790 ms
+
+2020-01-14 14:22:53,972 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Lai Valley Rural LLG: 33 hops                                                                       1632.260 ms
+
+2020-01-14 14:22:54,905 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Nowe Błonowo: 24 hops                                                                               932.804 ms
+
+2020-01-14 14:22:55,618 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Dneper common shrew: 15 hops                                                                        704.608 ms
+
+2020-01-14 14:22:56,191 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Imperial Philanthropic Society: 22 hops                                                             572.639 ms
+

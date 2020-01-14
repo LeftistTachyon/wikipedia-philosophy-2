@@ -1,0 +1,105 @@
+2020-01-14 14:25:44,469 [main] [INFO ] com.github.leftisttachyon.Main - Detected 4 cores; creating 1 thread(s).
+2020-01-14 14:25:45,963 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Anglican Church in Aotearoa, New Zealand and Polynesia: 10 hops                                     1480.327 ms
+2020-01-14 14:25:46,594 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Total War: Warhammer II: 16 hops                                                                    629.743 ms
+2020-01-14 14:25:47,720 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Paton Township, Greene County, Iowa: 27 hops                                                        1125.816 ms
+2020-01-14 14:25:48,419 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Dan Fisher (politician): 26 hops                                                                    691.148 ms
+2020-01-14 14:25:48,945 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Bulgaria–United Kingdom relations: 10 hops                                                          525.527 ms
+2020-01-14 14:25:49,720 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Clydebank F.C.: 9 hops                                                                              774.608 ms
+2020-01-14 14:25:51,092 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Qual é o Seu Talento? (season 3): 21 hops                                                           1372.423 ms
+2020-01-14 14:25:51,713 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Packstone: 17 hops                                                                                  620.031 ms
+2020-01-14 14:25:52,045 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Craig Joiner: 6 hops                                                                                331.546 ms
+2020-01-14 14:25:52,892 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Vyšní Lhoty: 30 hops                                                                                847.130 ms
+2020-01-14 14:25:53,205 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Medieval Archaeology (journal): 8 hops                                                              312.260 ms
+2020-01-14 14:25:53,767 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Theodore Link: 18 hops                                                                              561.762 ms
+2020-01-14 14:25:54,593 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Central American Spanish: 17 hops                                                                   825.478 ms
+2020-01-14 14:25:55,385 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Rockville Correctional Facility: 18 hops                                                            791.799 ms
+2020-01-14 14:25:55,679 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Marianka, Gostynin County: 10 hops                                                                  294.156 ms
+2020-01-14 14:25:56,257 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Triggertrap: 14 hops                                                                                577.456 ms
+2020-01-14 14:25:57,038 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Willowbrook Yard: 14 hops                                                                           780.251 ms
+2020-01-14 14:25:57,377 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Tochuina tetraquetra: 11 hops                                                                       339.081 ms
+2020-01-14 14:25:57,730 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Sherbakul: 10 hops                                                                                  352.580 ms
+2020-01-14 14:25:57,955 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Toss Across: 18 hops                                                                                224.689 ms
+2020-01-14 14:25:58,502 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Vocea României (season 8): 22 hops                                                                  546.752 ms
+2020-01-14 14:25:59,579 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Trấn Bình đài: 26 hops                                                                              1077.202 ms
+2020-01-14 14:26:00,145 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Charles de Condren: 11 hops                                                                         565.145 ms
+2020-01-14 14:26:00,685 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Ochrimnus tripligatus: 14 hops                                                                      540.427 ms
+2020-01-14 14:26:00,865 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Jeff Hendrick: 7 hops                                                                               179.430 ms
+2020-01-14 14:26:01,745 [Thread-1] [INFO ] com.github.leftisttachyon.Main - William Bostwick Sheppard: 24 hops                                                                  879.628 ms
+2020-01-14 14:26:01,984 [Thread-1] [INFO ] com.github.leftisttachyon.Main - China Times: 21 hops                                                                                238.782 ms
+2020-01-14 14:26:02,581 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Kinetic Luna: 23 hops                                                                               596.128 ms
+2020-01-14 14:26:02,983 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Naples yellow: 15 hops                                                                              402.235 ms
+2020-01-14 14:26:03,330 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Roman Catholic Diocese of Fiesole: 10 hops                                                          346.178 ms
+2020-01-14 14:26:04,149 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Digswell Arts Trust: 18 hops                                                                        818.949 ms
+2020-01-14 14:26:04,537 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Revolutionary Council (Afghanistan): 23 hops                                                        387.391 ms
+2020-01-14 14:26:05,303 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Nashville, Chattanooga & St. Louis Railway Co. v. United States: -5 hops                            765.866 ms
+2020-01-14 14:26:06,078 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Alex Dodoo: -9 hops                                                                                 774.850 ms
+2020-01-14 14:26:06,804 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Henry Pearlman: 4 hops                                                                              725.574 ms
+2020-01-14 14:26:07,563 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Chase County Courthouse (Kansas): 19 hops                                                           758.632 ms
+2020-01-14 14:26:07,927 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Albert Slingerlands House: 18 hops                                                                  364.092 ms
+2020-01-14 14:26:08,345 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Marlowe, West Virginia: 28 hops                                                                     417.581 ms
+2020-01-14 14:26:08,991 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Daley Toll Road: 29 hops                                                                            645.456 ms
+2020-01-14 14:26:09,405 [Thread-1] [INFO ] com.github.leftisttachyon.Main - C. Janardhanan: 26 hops                                                                             414.199 ms
+2020-01-14 14:26:10,138 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Itzchak Weismann: 20 hops                                                                           732.046 ms
+2020-01-14 14:26:10,574 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Old Probst Church: 11 hops                                                                          436.399 ms
+2020-01-14 14:26:10,900 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Nowy Borowiec: 10 hops                                                                              324.876 ms
+2020-01-14 14:26:11,294 [Thread-1] [INFO ] com.github.leftisttachyon.Main - 1999 World Championships in Athletics – Men's 4 × 100 metres relay: 7 hops                          393.698 ms
+2020-01-14 14:26:11,815 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Prestonian-class frigate: 23 hops                                                                   520.437 ms
+2020-01-14 14:26:12,269 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Stol (Serbia): 23 hops                                                                              453.459 ms
+2020-01-14 14:26:12,795 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Kenneth Hodges: 18 hops                                                                             526.307 ms
+2020-01-14 14:26:13,389 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Joseph A. Hardy III: 20 hops                                                                        593.666 ms
+2020-01-14 14:26:13,858 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Josef František: 17 hops                                                                            468.551 ms
+2020-01-14 14:26:14,717 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Interstate 355: -7 hops                                                                             859.136 ms
+2020-01-14 14:26:15,144 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Eran Neuman: 12 hops                                                                                426.260 ms
+2020-01-14 14:26:16,106 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Sternenfänger: 19 hops                                                                              961.679 ms
+2020-01-14 14:26:16,565 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Nakamura Kichiemon II: 20 hops                                                                      458.738 ms
+2020-01-14 14:26:17,031 [Thread-1] [INFO ] com.github.leftisttachyon.Main - John F. Kilmartin: 15 hops                                                                          466.429 ms
+2020-01-14 14:26:17,356 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Gregory Orr (poet): 26 hops                                                                         324.302 ms
+2020-01-14 14:26:17,926 [Thread-1] [INFO ] com.github.leftisttachyon.Main - 1919 Oxford University by-election: 28 hops                                                         569.914 ms
+2020-01-14 14:26:18,295 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Mélanie Bardis: 7 hops                                                                              368.384 ms
+2020-01-14 14:26:18,478 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Detroit River: 7 hops                                                                               182.405 ms
+2020-01-14 14:26:19,001 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Pinobee: Wings of Adventure: 19 hops                                                                523.166 ms
+2020-01-14 14:26:19,819 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Prakash Mani Tripathi: 29 hops                                                                      817.267 ms
+2020-01-14 14:26:20,252 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Sir John Alleyne, 1st Baronet: 27 hops                                                              433.364 ms
+2020-01-14 14:26:20,861 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Recruiting Act 1779: 25 hops                                                                        608.424 ms
+2020-01-14 14:26:21,821 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Piotr Nurowski: 10 hops                                                                             960.153 ms
+2020-01-14 14:26:22,229 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Islamo-leftism: 13 hops                                                                             407.059 ms
+2020-01-14 14:26:22,972 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Pteroplatus transversalis: 18 hops                                                                  742.878 ms
+2020-01-14 14:26:24,140 [Thread-1] [INFO ] com.github.leftisttachyon.Main - William Dunkerley (priest): 21 hops                                                                 1167.884 ms
+2020-01-14 14:26:24,578 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Perelman's Pocket Cyclopedia of Cigars: 16 hops                                                     437.839 ms
+2020-01-14 14:26:24,852 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Outline of the September 11 attacks: 3 hops                                                         273.556 ms
+2020-01-14 14:26:25,495 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Slabtown, Pennsylvania: 27 hops                                                                     642.956 ms
+2020-01-14 14:26:26,145 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Deng Yalan: 15 hops                                                                                 649.807 ms
+2020-01-14 14:26:26,995 [Thread-1] [INFO ] com.github.leftisttachyon.Main - March 2011 President of European Conservatives and Reformists election: -6 hops                     848.526 ms
+2020-01-14 14:26:27,497 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Dream State: 11 hops                                                                                502.700 ms
+2020-01-14 14:26:27,981 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Office of the Privacy Commissioner for Personal Data: 15 hops                                       483.602 ms
+2020-01-14 14:26:28,331 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Bert Gallia: 9 hops                                                                                 349.896 ms
+2020-01-14 14:26:28,849 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Myanmar at the Asian Games: 12 hops                                                                 517.640 ms
+2020-01-14 14:26:29,148 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Pseudosubulina: 12 hops                                                                             298.402 ms
+2020-01-14 14:26:29,791 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Handsome Lake: 22 hops                                                                              642.837 ms
+2020-01-14 14:26:30,133 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Cujubim: 27 hops                                                                                    341.338 ms
+2020-01-14 14:26:30,454 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Scots administrative law: 17 hops                                                                   321.589 ms
+2020-01-14 14:26:30,920 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Kirsten Frank Kelly: 24 hops                                                                        464.425 ms
+2020-01-14 14:26:31,232 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Eastwood Rides Again: 10 hops                                                                       312.728 ms
+2020-01-14 14:26:31,749 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Rogues de Hangest: 28 hops                                                                          516.390 ms
+2020-01-14 14:26:32,309 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Malusan: 29 hops                                                                                    559.453 ms
+2020-01-14 14:26:32,745 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Nirō Station: 14 hops                                                                               435.769 ms
+2020-01-14 14:26:33,258 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Jaden Leach: 4 hops                                                                                 512.286 ms
+2020-01-14 14:26:33,678 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Megaesophagus: 13 hops                                                                              420.131 ms
+2020-01-14 14:26:34,284 [Thread-1] [INFO ] com.github.leftisttachyon.Main - List of people from Augusta, Georgia: 30 hops                                                       606.027 ms
+2020-01-14 14:26:34,837 [Thread-1] [INFO ] com.github.leftisttachyon.Main - List of Italian football transfers summer 2019: 16 hops                                             551.947 ms
+2020-01-14 14:26:35,300 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Tiszakóród: 10 hops                                                                                 463.251 ms
+2020-01-14 14:26:36,486 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Mbala, Central African Republic: 35 hops                                                            1185.900 ms
+2020-01-14 14:26:36,919 [Thread-1] [INFO ] com.github.leftisttachyon.Main - 2010 North Queensland Cowboys season: 8 hops                                                        432.131 ms
+2020-01-14 14:26:37,549 [Thread-1] [INFO ] com.github.leftisttachyon.Main - English cricket team in Sri Lanka in 2014–15: 10 hops                                               630.111 ms
+2020-01-14 14:26:38,104 [Thread-1] [INFO ] com.github.leftisttachyon.Main - 2017 Suffolk County Council election: 31 hops                                                       554.501 ms
+2020-01-14 14:26:38,938 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Guidance Residential: 24 hops                                                                       834.349 ms
+2020-01-14 14:26:39,764 [Thread-1] [INFO ] com.github.leftisttachyon.Main - List of administrators of Daman and Diu: 22 hops                                                    825.087 ms
+2020-01-14 14:26:40,262 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Bad Blood (Once Upon a Time in Wonderland): 23 hops                                                 498.056 ms
+2020-01-14 14:26:40,480 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Dendrobranchiata: 17 hops                                                                           216.004 ms
+2020-01-14 14:26:40,774 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Robert Van Kampen: 26 hops                                                                          293.156 ms
+2020-01-14 14:26:41,163 [Thread-1] [INFO ] com.github.leftisttachyon.Main - El Herrumblar: 27 hops                                                                              389.212 ms
+2020-01-14 14:26:41,753 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Kim Possible: A Sitch in Time: 18 hops                                                              589.095 ms
+2020-01-14 14:26:41,753 [Thread-1] [INFO ] com.github.leftisttachyon.Main - 
+2020-01-14 14:26:41,753 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Max hops: 35 hops - Mbala, Central African Republic
+2020-01-14 14:26:41,753 [Thread-1] [INFO ] com.github.leftisttachyon.Main - Avg time: 572.299 ms
+2020-01-14 14:26:41,753 [Thread-1] [INFO ] com.github.leftisttachyon.Main - % to philosophy: 96.00%
